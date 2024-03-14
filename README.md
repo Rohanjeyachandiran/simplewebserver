@@ -77,6 +77,12 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
+![Screenshot 2024-03-14 135149](https://github.com/Rohanjeyachandiran/simplewebserver/assets/161102491/9482f1d5-fc79-4fd2-a91b-6727e02ee06f)
+![Screenshot 2024-03-14 135205](https://github.com/Rohanjeyachandiran/simplewebserver/assets/161102491/7c316563-c768-4052-ac85-7d9d0280eb5e)
+![Screenshot 2024-03-14 135011](https://github.com/Rohanjeyachandiran/simplewebserver/assets/161102491/5b1e95a0-b463-45c1-a534-809eb221502a)
+
+
+
 
 
 ## RESULT:
